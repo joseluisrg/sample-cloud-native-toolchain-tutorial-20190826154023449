@@ -8,4 +8,5 @@ applications:
   memory: 128M
   env:
     NODE_ENV: staging
+    APP_NAME: devops-tutorial
     
